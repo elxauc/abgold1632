@@ -16,3 +16,111 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+Mening birinchi HTML dagi saytim
+<p>
+        Ushbu tizimda <strong>Qoldirlgan holat </strong>yuzasidan fikr
+        tekshirib ko`ramiz.
+</p>
+
+<title> abgold.uz</title>
+<div>
+
+
+<li></li> teg yordamchi sifatida kiradi
+<ul.</ul> bu ruyxatlarni nuqta asosida chiqaradi.
+bunda ham
+<li></li> teg yordamchi sifatida kiradi.
+masalan:
+<Ol>
+	<li> Toshken shaxri </li>
+	<li> Qashqadaryo viloyati</li>
+	<li> Surxondaryo viloyati</li>
+	<li> Samarqand viloyati</li>
+<ul>	
+	<li> Yunusobot tumani</li>
+	<li> Qarshi shaxri</li>
+	<li>Termiz shaxri</li>
+</ul>
+        <li>Qaraqolg`iston
+<ul>
+        <li>Nukus shaxri</li>
+</ul>                
+</Ol>
+</div>
+
+<br>
+<br>
+<ul>
+  
+    <li>Mammals
+<ol>
+  	<li>Raccons
+    <li>Gorillas
+      </ol>  
+      <br>
+  <li>Reptiles
+    <ol>
+    <li>Iguanas
+    <li>Cobras
+    </ol>
+    <br>
+  <li>Birds
+    <ol>
+      <li> Ostriches
+      <li> Ravens
+    </ol>    
+</ul>
+<p>
+
+</p>
+<br>
+<ul>
+	<li>Yikes!
+	  <li>This
+	    <li>keeps
+	      <li>indenting
+		<li>to the right!
+      </ul>
+<br>
+      <ol>
+	<li>Tomatoes
+	  <li>Carrots
+	<li>Cucumbers
+      </ol>
+
+      <br>
+      <ol>
+	<li>Tomatoes
+	  <li>Carrots
+	    <li>Cucumbers
+      </ol>
+ 
+<strong> Bu so`z qorayib ko`rinadi</strong> va shunda yopiladi
+<em> BU SO`Z EGILGAN HOLATDA CHIQADI</em> 
+<br>  bu bo`sh joy qoldirish yoki satrni bitta pasga tashlasha hizmat qiladi
+<p></p>paragraph so`zlarni xat boshidan saqlaydi
+<mark></mark>  Sariq rangda belgilaydi.
+<sup></sup> yozuvni tepaga yozadi
+<samp></samp> yozuvni pastga yozadi bular matematik ishoralarni formulalarni yozishda qo`l keladi.
+<h1></h1> ushbu saytda katta harflar bilan sarlavha qo`yishda ishlatiladi.
+<div>elementi huddi </div>  
+<li></li> teg yordamchi sifatida kiradi.
+masalan:
+<ol>
+	<li> Toshken shaxri </li>
+	<li> Qashqadaryo viloyati</li>
+	<li> Surxondaryo viloyati</li>
+	<li> Samarqand viloyati</li>
+<ul>	
+	<li> Yunusobot tumani</li>
+	<li> Qarshi shaxri</li>
+	<li>Termiz shaxri</li>
+</ul>
+</ol>
+<br>
+<p style="color:  green;"> Ushbu yozuvlarning barchasi yashil rangda aks etadi (green).</p>
+<p style="color: blue;">This text is inside the second paragraph element—and it's BLUE!.</p>
+<p style="color:hsl;"(hue, saturation, lightness)"> yozuv tizimlarini ko`ramiz.</p>
+<p style="color:royalblue"> ushbu rang royalblue rangi hisoblanib shu rangni aks etadi</p>
+<li><a href="https://github.com/">GitHub-ushbu sat havolasi</a></li>   
+<li><a href="https://tasx.uz"> Tasx.uz saytiga havola</a></li>
